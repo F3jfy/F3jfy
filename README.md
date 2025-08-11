@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Adam Fejfar</h1>
+<h3 align="center">💻 Web Developer & 📸 Photographer from Prague</h3>
+<h4 align="center">Currently studying IT at SPŠE Františka Křižíka</h4>
 
-<!--
-**F3jfy/F3jfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Working on **PomodoDrive**  
+- 🌱 Learning **HTML**, **CSS**, and **JavaScript**  
+- 💬 Open to chat about **coding, design, or photography**  
+- ⚡ Fun fact: I can probably find the perfect camera angle faster than I can debug CSS 😄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Contact Me
+<p align="center">
+  📧 **adam.fejfar13@gmail.com**  
+  📸 Instagram: [@f3jfys_life](https://instagram.com/f3jfys_life)  
+</p>
+
+---
