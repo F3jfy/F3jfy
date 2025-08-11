@@ -8,7 +8,7 @@
 - 🔭 Working on **PomodoDrive**  
 - 🌱 Learning **HTML**, **CSS**, and **JavaScript**  
 - 💬 Open to chat about **coding, design, or photography**  
-- ⚡ Fun fact: I can probably find the perfect camera angle faster than I can debug CSS 😄  
+- ⚡ Fun fact: I can probably find the perfect camera angle faster than I can debug JS 😄  
 
 ---
 
