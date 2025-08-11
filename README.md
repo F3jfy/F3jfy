@@ -14,7 +14,7 @@
 
 ### 📬 Contact Me
 <p align="center">
-  📧 **adam.fejfar13@gmail.com**  
+  📧 <a href="mailto:adam.fejfar13@gmail.com">adam.fejfar13@gmail.com</a><br>
   📸 Instagram: <a href="https://instagram.com/f3jfys_life" target="_blank">@f3jfys_life</a>
 </p>
 
